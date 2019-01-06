@@ -1,6 +1,5 @@
-BitShares-UI
+JLD-Exchange-BitShares-UI
 ============
-[中文版](README_zh.md)
 
 This is a light wallet that connects to a BitShares API provided by the *witness_node* executable.
 
@@ -24,7 +23,7 @@ nvm use v9
 Once you have Node installed, you can clone the repo:
 
 ```
-git clone https://github.com/bitshares/bitshares-ui.git
+https://github.com/M-Zeeshan-Haider/JLDBitshareUI.git
 cd bitshares-ui
 ```
 
