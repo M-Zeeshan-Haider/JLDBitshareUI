@@ -24,7 +24,7 @@ Once you have Node installed, you can clone the repo:
 
 ```
 https://github.com/M-Zeeshan-Haider/JLDBitshareUI.git
-cd bitshares-ui
+cd JLDBitshareUI
 ```
 
 Before launching the GUI you will need to install the npm packages:
